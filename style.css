@@ -30,3 +30,30 @@ h2 {
  .font_downgrade{
      font-size: 14   px;
  }
+
+ #description {
+    position: absolute;
+    top: 70px;
+    text-align: left; /* top,right,bottom,left */
+    padding: 3% 2% 3% 2%;
+    left: 210px;
+    top: 120px;
+     
+ }
+
+ #my-name {
+     text-align: center;
+ }
+
+ #minha_foto {
+    background-color: green;
+    height:;
+    padding: 10px;
+    margin-right: 1115px;
+    border-radius: 50%
+
+ }
+
+ img {
+     border-radius: 50%;
+ }
