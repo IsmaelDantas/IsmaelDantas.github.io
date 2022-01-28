@@ -1,0 +1,32 @@
+body{
+    background-color: #FEFFEA;
+}
+
+h2 {
+     font-family: Helvetica, sans-serif;
+
+ }
+
+ p {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ }
+#inicio{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ #nacionality{
+     color:#e0d01d;
+ }
+
+ #city{
+     color:blue;
+ }
+
+ .font_upgrade{
+     font-size: 18px;
+ }
+
+ .font_downgrade{
+     font-size: 14   px;
+ }
