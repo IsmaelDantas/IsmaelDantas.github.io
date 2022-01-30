@@ -11,7 +11,8 @@ h2 {
      font-family: Verdana, Geneva, Tahoma, sans-serif;
 
  }
-#inicio{
+
+ #inicio{
      font-family: Georgia, 'Times New Roman', Times, serif;
  }
 
@@ -47,13 +48,14 @@ h2 {
 
  #minha_foto {
     background-color: green;
-    height:;
+    height: fit-content;
+    width: fit-content;
     padding: 10px;
     margin-right: 1115px;
-    border-radius: 50%
+    
 
  }
 
- img {
-     border-radius: 50%;
- }
+ul.odd li:nth-child(2n+1) {
+    color: #D76D6D;
+}
